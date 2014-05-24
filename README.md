@@ -1,6 +1,11 @@
 Modjam-4
 =======
 
+<POST-MOD JAM>
+  - https://github.com/NPException42/Modjam-4/releases/tag/0.06
+  - Sorry, had to add this link in, as some people couldn't find it.
+<MOD-JAM STATE>
+
 So this is our repo for Modjam 4.
 
 participants are: (in ranking of awesome)
